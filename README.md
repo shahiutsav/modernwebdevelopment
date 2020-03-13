@@ -5,4 +5,4 @@ to tun project in laravel
 
 
 to run project in angular
-#npm start
+#npm dont start
